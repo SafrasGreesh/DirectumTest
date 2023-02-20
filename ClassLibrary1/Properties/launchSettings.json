@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "2": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Project"
+    }
+  }
+}
